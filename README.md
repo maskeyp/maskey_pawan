@@ -1,5 +1,5 @@
 # 💫 About Me:
-I convert high into codes.<br><br>🔭 In the action of learning Flutter(dart + flutter).<br>👯 I’m looking to collaborate on flutter projects.<br>🌱 Exploring Flutter every day.<br>💬 Ask me about flutter and tech stuff.<br>⚡ Fun fact " Coding can power up your brain
+I convert high into codes.<br><br>🔭 In the action of learning Flutter(dart + flutter).<br>👯 I’m looking to collaborate on flutter projects.<br>🌱 Exploring Flutter every day.<br>💬 Ask me about flutter and tech stuff.<br>⚡ Fun fact " Coding can power up your brain "
 
 
 ## 🌐 Socials:
